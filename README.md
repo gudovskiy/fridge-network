@@ -1,4 +1,4 @@
-## Reasoning model for Fridge demo
+# Reasoning model for Fridge demo
 
 This is the code used to train models for *smart fridge* paper and demo:
 
