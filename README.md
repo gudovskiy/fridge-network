@@ -2,7 +2,7 @@
 
 This is the code used to train models for *smart fridge* paper and demo:
 
-**[Smart Home Appliances: Chat with Your Fridge](https://arxiv.org/pdf/1912.?????.pdf)**
+**[Smart Home Appliances: Chat with Your Fridge](https://arxiv.org/pdf/1912.09589.pdf)**
 
 This project forks [MAC](https://github.com/stanfordnlp/mac-network) project and modifies it for *smart fridge* application. You can use this code to reproduce our models.
 
